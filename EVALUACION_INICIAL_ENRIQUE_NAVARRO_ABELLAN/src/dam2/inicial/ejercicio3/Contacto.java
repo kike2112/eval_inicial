@@ -20,7 +20,6 @@ public class Contacto {
 	}
 	public Contacto(String nombre, String email, String telefono) {
 		super();
-		this.id = id;
 		this.nombre = nombre;
 		this.email = email;
 		this.telefono = telefono;
